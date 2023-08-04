@@ -1,0 +1,6 @@
+[submodule "Tax_Backend"]
+	path = Tax_Backend
+	url = https://github.com/mahmoudv2017/Tax_Backend.git
+[submodule "Tax_FrontEnd"]
+	path = Tax_FrontEnd
+	url = https://github.com/mahmoudv2017/Tax_FrontEnd
